@@ -31,6 +31,7 @@ The satisfaction rate of customers from the survey carried out is lower than 50%
 - Data cleaning and transformation
 
 - Data modelling
+![](IMG_20250630_144749.png)
 
 - Quick measure and DAX expressions
 
@@ -41,6 +42,8 @@ The satisfaction rate of customers from the survey carried out is lower than 50%
 - Use of power query for data modification
 
 ## Visualization
+
+![](IMG_20250630_110253.png)
 
 ## Analysis
 
